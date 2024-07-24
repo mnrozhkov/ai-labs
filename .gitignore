@@ -1,3 +1,9 @@
+# Project Specific
+multi-agent-ai-with-crewai/*
+rag-llamaIndex/*
+unstructured-data-for-llm/*
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

@@ -1,0 +1,6 @@
+crewai[tools]==0.41.1
+jupyterlab
+langchain==0.2.11
+langchain_community==0.2.10
+llama-index==0.10.57
+openai
